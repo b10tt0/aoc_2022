@@ -4,7 +4,6 @@ use std::{
     path::Path,
 };
 
-// rock paper scissors, best out of 3
 const ROCK: u32 = 1;
 const PAPER: u32 = 2;
 const SCISSORS: u32 = 3;
