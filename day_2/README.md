@@ -76,7 +76,7 @@ choose Rock so you lose (`X`) with a score of 1 + 0 = __1__.
 for a score of 1 + 6 = __7__.
 
 Now that you're correctly decrypting the ultra top secret strategy guide,
-you would get a total score of __12__.
+you would get a total score of `12`.
 
 Following the Elf's instructions for the second column, __what would your 
 total score be if everything goes exactly according to your strategy guide?__
